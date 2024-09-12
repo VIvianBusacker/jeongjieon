@@ -141,26 +141,23 @@ I'm Vivivan B. an Software Engineer Developer. I Spend most of my time coding ou
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-### 🏆 GitHub Trophies
-[!](https://github-profile-trophy.vercel.app/?username=jeongjieontheme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeongjieon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<!---////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+## 🖥️ Coding Stats
 
-<!---////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////->
-
-##Coding Stats
+<!-- WakaTime Stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@RESOURCE: https://wakatime.com/plugins/status?onboarding=true-->
 
+### 📊 Weekly Coding Stats
 <!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ██████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
 <!--END_SECTION:waka-->
 
-## Github Stats
+
+## 📊 Github Stats
 
 ![Vivian's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongjieon&count_private=true&theme=tokyonight&hide=contribs,prs)
 
