@@ -145,16 +145,6 @@ I'm Vivivan B. an Software Engineer Developer. I Spend most of my time coding ou
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeongjieon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!---////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
-## 🖥️ Coding Stats
-
-<!-- WakaTime Stats -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<!--@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@RESOURCE: https://wakatime.com/plugins/status?onboarding=true-->
-
-### 📊 Weekly Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 ## 📊 Github Stats
