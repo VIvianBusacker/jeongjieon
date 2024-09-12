@@ -117,7 +117,7 @@ A Software Engineer Developer. I Spend most of my time coding outstanding projec
 
 
 <!--______________________________________________________________________________________________________________________________________________________________________________________________________-->
-<br><br>
+<br>
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeongjieon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
