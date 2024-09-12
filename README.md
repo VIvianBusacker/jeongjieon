@@ -53,7 +53,7 @@ A Software Engineer Developer. I Spend most of my time coding outstanding projec
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
 
-### Statistical & Data Analysis Software
+### Statistical & Data Analysis Tools
 
 ![SAS](https://img.shields.io/badge/SAS-0066CC?style=for-the-badge&logo=sas&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -65,15 +65,16 @@ A Software Engineer Developer. I Spend most of my time coding outstanding projec
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Development Tools & IDEs
+### Development & Design Tools
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white)
 ![GoDaddy](https://img.shields.io/badge/GoDaddy-1B9AD6?style=for-the-badge&logo=godaddy&logoColor=white)
 
 ### Operating Systems
@@ -92,18 +93,32 @@ A Software Engineer Developer. I Spend most of my time coding outstanding projec
 ![MS Access](https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Project & Software Management Tools
+### Software & Project Management Tools
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+
+### Service Management & Incident Handling
+
+![ITSM Systems](https://img.shields.io/badge/ITSM%20Systems-0052CC?style=for-the-badge&logo=itil&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-0C223F?style=for-the-badge&logo=servicenow&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Data Management & Compliance
 
 ![Microsoft Purview](https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Data Governance](https://img.shields.io/badge/Data%20Governance-6B8E23?style=for-the-badge)
-![Compliance](https://img.shields.io/badge/Compliance-4682B4?style=for-the-badge)
-<br><br>
+![Data Compliance](https://img.shields.io/badge/Data%20Compliance-4682B4?style=for-the-badge)
+
+### Technical Support
+
+![Application Development](https://img.shields.io/badge/Application%20Development-3DDC84?style=for-the-badge)
+![Software Troubleshooting](https://img.shields.io/badge/Software%20Troubleshooting-FF5733?style=for-the-badge)
+![System Administration](https://img.shields.io/badge/System%20Administration-000000?style=for-the-badge&logo=linux&logoColor=white)
+
+
 <!--______________________________________________________________________________________________________________________________________________________________________________________________________-->
+<br><br>
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jeongjieon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
