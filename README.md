@@ -23,9 +23,9 @@ A Software Engineer Developer. I Spend most of my time coding outstanding projec
 
 ### What I currently Do
 
-- 🔭 I’m currently working at @ITS
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I am a problem-solving and making technology more accessible for everyone. With a passion for learning and growth, I’m always looking for new opportunities to explore the evolving world of tech and its possibilities.
+<!-- - 🔭 I’m currently working at @ITS 
+- :computer: Most used line of code `git commit -m "Initial Commit"` -->
+- 🤔 I enjoy problem-solving and making technology more accessible for everyone. With a passion for learning and growth, I’m always looking for new opportunities to explore the evolving world of tech and its possibilities.
 - 😄 Pronouns: Vivian (She/her)
 - ⚡ Fun fact: I speak 3 Languages!
   - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png" width="20px" /> English (Fluent / Native Proficiency)
